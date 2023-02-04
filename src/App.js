@@ -1,8 +1,8 @@
-import Say from './Say';
+import EventPractice from './EventPractice';
 import './App.css';
 
 const App = () => {
-  return <Say />;
+  return <EventPractice />;
 };
 
 export default App;
